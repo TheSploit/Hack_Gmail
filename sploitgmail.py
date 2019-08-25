@@ -40,7 +40,7 @@ def main():
 main()
 print '[1] Mulai Bruteforce'
 print '[2] Keluar'
-option = input('⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ>')
+option = input('TheSploit>')
 if option == 1:
    file_path = raw_input('Lokasi dari Passwordlist :')
 else:
