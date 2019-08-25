@@ -5,11 +5,11 @@ import smtplib
 from os import system
 
 def main():
-   print '╔════════════════════════════════════════╗'
-   print '║Author  :TheSploit 	                   ║'
-   print '║Whatsapp:081316577616       	           ║'
-   print '║GitHub  :https://github.com/TheSploit   ║'
-   print '╚════════════════════════════════════════╝'
+   print '==========================================='
+   print '= Author  :TheSploit 	                   l'
+   print '= Whatsapp:081316577616       	          l'
+   print '= GitHub  :https://github.com/TheSploit    l'
+   print '==========================================='
    print '\n                                               '
    print '  +++++++++++++++++++++++++++++++++++++++++++    '
    print '  +++++++++++++++++++++++++++++++++++++++++++    '
